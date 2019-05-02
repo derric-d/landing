@@ -1,0 +1,12 @@
+.btn-lewagon {
+  border: #02a87c solid 1px;
+  padding: 10px 15px;
+  text-decoration: none;
+  border-radius: 20px;
+  background-color: #02a87c;
+  color: white;
+  margin: 10px auto;
+  position: relative;
+  bottom: -20px;
+  left: 540px;
+}

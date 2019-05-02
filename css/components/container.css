@@ -1,0 +1,10 @@
+.container {
+  width: 90%;
+  height: 500px;
+  margin: 0 auto;
+}
+
+.container h2 {
+  color: black;
+  justify-content: center;
+}

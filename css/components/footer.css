@@ -1,0 +1,15 @@
+.footer-content {
+  background-color: darkgrey;
+  height: 100px;
+  padding: 40px;
+  text-align: center;
+}
+
+i {
+  display: inline-block;
+  list-style: none;
+}
+
+.social-icon a {
+  height: 75px;
+}

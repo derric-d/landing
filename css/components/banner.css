@@ -1,0 +1,19 @@
+.banner-content {
+  color: white;
+  padding: 100px;
+  background-size: cover;
+  background-position: center;
+  height: 400px;
+
+}
+
+.banner-content h1 {
+  text-shadow: 1px 1px 3px rgba(0,0,0,0.6);
+  padding-top: 0;
+  text-align: center;
+}
+
+.banner-content p {
+  text-shadow: 1px 1px 3px rgba(0,0,0,0.6);
+  text-align: center;
+}
